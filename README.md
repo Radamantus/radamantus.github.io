@@ -23,7 +23,7 @@ Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA): Graduaç
 Universidade Federal do Pará (UFPA): Professor universitário da Faculdade de Engenharia Industrial da UFPA para ministrar a disciplina de Análise de Sistemas Lineares para graduação em Engenharia Industrial, onde apresentou-se aos dicentes conceitos de Classificação de Sistemas Dinâmicos, Teoria de Sistemas Lineares e Teoria de Controle Clássico e Moderno (2018-2018).</p>
 
 <p align = 'justify' >
-Centrais Elétricas do Norte do Brasil (ELETRONORTE): Estagiário na Gerência de Manutenção de Eletroeletrônicos. As principais atividades eram: Análise dos desenhos técnicos já impressos; Aplicação de desenhos lógicos e funcionais na prática e desenvolvimento com CLP; Estudo e aprendizado dos desenhos técnicos, lógicos e funcionais dos sistemas de controle, supervisão e proteção da subestação.</p>
+Centrais Elétricas do Norte do Brasil (ELETRONORTE): Estagiário na Gerência de Manutenção de Eletroeletrônicos. As principais atividades eram: Análise dos desenhos técnicos já impressos; Aplicação de desenhos lógicos e funcionais na prática e desenvolvimento com CLP; Estudo e aprendizado dos desenhos técnicos, lógicos e funcionais dos sistemas de controle, supervisão e proteção da subestação (2014-2015).</p>
 
 ### Jekyll Themes
 
