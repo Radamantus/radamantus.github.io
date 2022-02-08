@@ -6,7 +6,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 ### Formação Acadêmica
 
 <p align = 'justify' >
-- Doutorado em Engenharia Elétrica com ênfase em Inteligência Computacional: Universidade Federal do Pará (UFPA). Belém, PA (2018-2022).</p>
+- Doutorado em Engenharia Elétrica com ênfase em Inteligência Computacional: Universidade Federal do Pará (UFPA). Belém, PA (2018-conclusão2022).</p>
 
 <p align = 'justify' >
 - Mestrado em Engenharia Elétrica com ênfase em Sistemas de Controle: Universidade Federal do Pará (UFPA). Belém, PA (2016-2018).</p>
@@ -46,6 +46,14 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 [Algoritmos Desenvolvidos na Área de Sistemas de Controle e Inteligência Computacional](https://github.com/Radamantus/Matlab_Codes):
 <p align = 'justify' >- Este repositório guarda inúmeros códigos usados como modelo e material de suporte.</p>
 
-### Support or Contact
+### Qualificações Adicionais
+
+**Linguagem de Programação Python**: Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn.
+**Aprendizado de Máquina**: Machine Learning e Deep Learning.
+**Inteligência Computacional**: Controle e Lógica Fuzzy.
+**Automação de Processos Repetitivos**: RPA.
+**Banco de Dados Relacionais**: SQL e MySQL.
+**Extração, Limpeza e Visualização (ETL) de Dados**: Matlab, Excel e Power BI.
+**Idiomas**: Português (Nativo), Inglês (Avançado).
 
 123456789
