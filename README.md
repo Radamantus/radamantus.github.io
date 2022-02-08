@@ -16,7 +16,7 @@ Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA): Graduaç
 
 ### Experiência Profissional
 
-<p align = 'justify' >
+<p align = 'justify' >  
 [Laboratório de Controle e Sistemas (LACOS)](https://lacos.ufpa.br): Pesquisador (Bolsista CAPES - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) de mestrado e doutorado responsável por produzir conhecimento científico e desenvolver pesquisa na área de Sistemas de Controle e Inteligência Computacional aplicadas em drones, próteses mioelétricas de mão, processos industriais e sistemas de controle didáticos em colaboração com alunos de graduação, mestrado e doutorado (2016-2022).</p>
 
 <p align = 'justify' >
@@ -26,6 +26,9 @@ Universidade Federal do Pará (UFPA): Professor universitário da Faculdade de E
 Centrais Elétricas do Norte do Brasil (ELETRONORTE): Estagiário na Gerência de Manutenção de Eletroeletrônicos. As principais atividades eram: Análise dos desenhos técnicos já impressos; Aplicação de desenhos lógicos e funcionais na prática e desenvolvimento com CLP; Estudo e aprendizado dos desenhos técnicos, lógicos e funcionais dos sistemas de controle, supervisão e proteção da subestação (2014-2015).</p>
 
 ### Projetos de Pesquisa e Artigos Publicados
+
+<p align = 'justify' >
+[Ganho Programado Tradicional e Rede de Controladores com Supervisão Fuzzy](https://sbic.org.br/eventos/cbic_2021/cbic2021-114/): Neste trabalho são comparados o desempenho entre controladores por ganho programado tradicional e uma rede de controladores locais com supervisão fuzzy. As análises são realizadas em uma válvula não linear e uma planta Motor-Tacogerado. A supervisão fuzzy é inserida de forma a atenuar essas mudanças bruscas, ponderando os valores dos controladores estáticos para encontrar um novo conjunto de parâmetros a cada instante de tempo (2021).</p>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Radamantus/radamantus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
