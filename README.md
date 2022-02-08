@@ -55,7 +55,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 [Algoritmos Desenvolvidos na Área de Sistemas de Controle e Inteligência Computacional](https://github.com/Radamantus/Matlab_Codes):
 <p align = 'justify' >- Este repositório guarda inúmeros códigos usados como modelo e material de suporte.</p>
 
-### Participações em Bancas Examinadoras
+### 📝 Participações em Bancas Examinadoras
 
 - **Projeto de Controladores Clássico e Moderno para Drone Quadrotor**: Carlos Roozembergh Porto da Silva Junior. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2021).
 
