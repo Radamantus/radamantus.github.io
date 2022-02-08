@@ -51,9 +51,9 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 ### Participações em Bancas Examinadoras
 
-**Projeto de Controladores Clássico e Moderno para Drone Quadrotor**: Carlos Roozembergh Porto da Silva Junior. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2021).
+- **Projeto de Controladores Clássico e Moderno para Drone Quadrotor**: Carlos Roozembergh Porto da Silva Junior. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2021).
 
-**Estudo Comparativo entre Controladores PI Clássico e Adaptativo para um Forno de Indução Eletromagnética**: Kelvin Mathaeus Costa Mattos. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2021).
+- **Estudo Comparativo entre Controladores PI Clássico e Adaptativo para um Forno de Indução Eletromagnética**: Kelvin Mathaeus Costa Mattos. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2021).
 
 ### Qualificações Adicionais
 
