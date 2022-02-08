@@ -11,6 +11,9 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 <p align = 'justify' >
 **Universidade Federal do Pará (UFPA)**: Mestrado em Engenharia Elétrica com ênfase em Sistemas de Controle. Belém, PA (2016-2018).</p>
 
+<p align = 'justify' >
+**Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA)**: Graduação em Engenharia de Controle e Automação. Belém, PA. (2010-2015).</p>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
