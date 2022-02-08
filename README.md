@@ -37,6 +37,9 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 <p align = 'justify' >- A Série temporal de Mackey-Glass representa a dinâmica de sistemas fisiológicos humanos e apresenta comportamento tanto periódico quanto caótico em sua dinâmica. Este artigo propõe uma rede neural Perceptron Multicamadas que reproduz a dinâmica da série temporal mesmo na presença de alteração de seus parâmetros. Simulações numéricas englobam tanto a dinâmica periódica quanto caótica da série, a fim de comprovar a eficácia da rede neural proposta (2017).</p>
 
+[Projeto de Estabilizadores de Sistemas Elétricos de Potência utilizando Controle GMVSS](http://repositorio.ufpa.br:8080/jspui/handle/2011/9956):
+<p align = 'justify' >- Neste trabalho é investigado o desempenho de uma estratégia de controle preditivo, do tipo variância mínima em espaço de %estados (GMVSS), aplicada ao amortecimento de oscilações eletromecânicas em sistemas de potência interligados. Os resultados mostram %que o estabilizador preditivo é capaz de contribuir positivamente para o amortecimento dos modos de oscilação mais problemáticos, %aumentando assim os limites de estabilidade do sistema de potência.</p>
+
 [Coleção de Estudos de Caso na Área de Ciência de Dados](https://github.com/Radamantus/Python_Notebooks):
 <p align = 'justify' >- Neste repositório são armazenados vários casos de estudo usados como modelo e material de apoio.</p>
 
