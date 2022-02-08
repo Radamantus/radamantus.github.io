@@ -28,7 +28,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE): Estagiário na Gerência d
 ### Projetos de Pesquisa e Artigos Publicados
 
 <p align = 'justify' >
-[Ganho Programado Tradicional e Rede de Controladores com Supervisão Fuzzy](https://sbic.org.br/eventos/cbic_2021/cbic2021-114/): Neste trabalho são comparados o desempenho entre controladores por ganho programado tradicional e uma rede de controladores locais com supervisão fuzzy. As análises são realizadas em uma válvula não linear e uma planta Motor-Tacogerado. A supervisão fuzzy é inserida de forma a atenuar essas mudanças bruscas, ponderando os valores dos controladores estáticos para encontrar um novo conjunto de parâmetros a cada instante de tempo (2021).</p>
+[Ganho Programado Tradicional e Rede de Controladores com Supervisão Fuzzy](https://sbic.org.br/eventos/cbic_2021/cbic2021-114): Neste trabalho são comparados o desempenho entre controladores por ganho programado tradicional e uma rede de controladores locais com supervisão fuzzy. As análises são realizadas em uma válvula não linear e uma planta Motor-Tacogerado. A supervisão fuzzy é inserida de forma a atenuar essas mudanças bruscas, ponderando os valores dos controladores estáticos para encontrar um novo conjunto de parâmetros a cada instante de tempo (2021).</p>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Radamantus/radamantus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
