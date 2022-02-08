@@ -36,6 +36,9 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 [Projeto de Controladores PID Locais com Supervisão Fuzzy](https://ieeexplore.ieee.org/document/8891944):
 <p align = 'justify' >- Este trabalho propõe uma estratégia fuzzy viável, do tipo rede de controladores convencionais locais supervisionados por lógica fuzzy, objetivando a melhoria da estabilidade e robustez de um sistema eletromecânico didático. Testes experimentais confirmam a superioridade do método inteligente proposto sobre os métodos clássicos de controle para lidar com não linearidades e variações paramétricas do sistema em toda a faixa de operação estudada (2019).</p>
 
+[Digital Control Design by the Polynomial Method with Evaluation of the Sensitivity Function](https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/822):
+<p align = 'justify' >- Este artigo apresenta duas possibilidades de projeto de sintonia para um controlador RST digital incremental baseado na técnica de alocação de polos, cujos parâmetros são obtidos pela resolução da equação Diofantina. Como os distúrbios de saída e entrada ocorrem em sistemas reais, é feita a análise de estabilidade e robustez da malha de controle por meio da modelagem de malha de funções de sensibilidade. Para avaliar o desempenho do controlador para tais sintonias, é analisado o índice de desempenho para o erro e para o esforço de controle. A diferença entre os projetos de sintonia é apresentada por simulação numérica para um sistema subamortecido de segunda ordem, mostrando que o método proposto pode fornecer soluções com maior estabiilidade e robustez. (2018).</p>
+
 [Projeto de Estabilizadores de Sistemas Elétricos de Potência utilizando Controle GMVSS](http://repositorio.ufpa.br:8080/jspui/handle/2011/9956):
 <p align = 'justify' >- Neste trabalho é investigado o desempenho de uma estratégia de controle preditivo, do tipo variância mínima em espaço de estados (GMVSS), aplicada ao amortecimento de oscilações eletromecânicas em sistemas de potência interligados. Os resultados mostram que o estabilizador preditivo é capaz de contribuir positivamente para o amortecimento dos modos de oscilação mais problemáticos, aumentando assim os limites de estabilidade do sistema de potência (2018).</p>
 
@@ -54,6 +57,8 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Projeto de Controladores Clássico e Moderno para Drone Quadrotor**: Carlos Roozembergh Porto da Silva Junior. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2021).
 
 - **Estudo Comparativo entre Controladores PI Clássico e Adaptativo para um Forno de Indução Eletromagnética**: Kelvin Mathaeus Costa Mattos. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2021).
+
+- **Análise de Desempenho e Robustez dos Controladores Preditivos GMV, DMC e GPC Aplicados em uma Planta Pêndulo Amortecido**: Daniel Abreu Macedo da Silva. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2021).
 
 ### Qualificações Adicionais
 
