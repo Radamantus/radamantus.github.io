@@ -67,6 +67,9 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 - **Identificação, Modelagem e Controle de Velocidade de Motor Tacogerador**: Madson Jerry da Silva Batista. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2020).
 
+- **Controle de Posição de um Braço Robótico com um Grau de Liberdade para Diferentes Cargas**: Gustavo da Silva Madi. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2019).
+
+
 ### Qualificações Adicionais
 
 - **Programação Python**: Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn.
