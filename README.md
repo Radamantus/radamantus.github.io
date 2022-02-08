@@ -41,7 +41,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 <p align = 'justify' >- A Série temporal de Mackey-Glass representa a dinâmica de sistemas fisiológicos humanos e apresenta comportamento tanto periódico quanto caótico em sua dinâmica. Este artigo propõe uma rede neural Perceptron Multicamadas que reproduz a dinâmica da série temporal mesmo na presença de alteração de seus parâmetros. Simulações numéricas englobam tanto a dinâmica periódica quanto caótica da série, a fim de comprovar a eficácia da rede neural proposta (2017).</p>
 
 [Coleção de Estudos de Caso na Área de Ciência de Dados](https://github.com/Radamantus/Python_Notebooks):
-<p align = 'justify' >- Neste repositório são armazenados vários casos de estudo usados como modelo e material de apoio.</p>
+<p align = 'justify' >- Neste repositório são armazenados vários casos de estudo usados como material de apoio.</p>
 
 [Algoritmos Desenvolvidos na Área de Sistemas de Controle e Inteligência Computacional](https://github.com/Radamantus/Matlab_Codes):
 <p align = 'justify' >- Este repositório guarda inúmeros códigos usados como modelo e material de suporte.</p>
