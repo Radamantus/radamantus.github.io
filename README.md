@@ -4,7 +4,7 @@
 
 ### Formação Acadêmica
 
-<p align = 'justify' >* Universidade Federal do Pará (UFPA): Doutorado em Engenharia Elétrica com ênfase em Inteligência Computacional. Belém, PA (2018-Conclusão em 2022).
+<p align = 'justify' > * Universidade Federal do Pará (UFPA): Doutorado em Engenharia Elétrica com ênfase em Inteligência Computacional. Belém, PA (2018-Conclusão em 2022).
 
 * Universidade Federal do Pará (UFPA): Mestrado em Engenharia Elétrica com ênfase em Sistemas de Controle. Belém, PA (2016-2018).</p>
 
