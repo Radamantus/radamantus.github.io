@@ -6,13 +6,13 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 ### Formação Acadêmica
 
 <p align = 'justify' >
-- Universidade Federal do Pará (UFPA): Doutorado em Engenharia Elétrica com ênfase em Inteligência Computacional. Belém, PA (2018-2022).</p>
+- Doutorado em Engenharia Elétrica com ênfase em Inteligência Computacional: Universidade Federal do Pará (UFPA). Belém, PA (2018-2022).</p>
 
 <p align = 'justify' >
-- Universidade Federal do Pará (UFPA): Mestrado em Engenharia Elétrica com ênfase em Sistemas de Controle. Belém, PA (2016-2018).</p>
+- Mestrado em Engenharia Elétrica com ênfase em Sistemas de Controle: Universidade Federal do Pará (UFPA). Belém, PA (2016-2018).</p>
 
 <p align = 'justify' >
-- Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA): Graduação em Engenharia de Controle e Automação. Belém, PA. (2010-2015).</p>
+- Graduação em Engenharia de Controle e Automação: Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Belém, PA. (2010-2015).</p>
 
 ### Experiência Profissional
 
