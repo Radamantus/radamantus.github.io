@@ -6,10 +6,10 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 ### Formação Acadêmica
 
 <p align = 'justify' >
-  * Universidade Federal do Pará (UFPA): Doutorado em Engenharia Elétrica com ênfase em Inteligência Computacional. Belém, PA (2018-2022).</p>
+Universidade Federal do Pará (UFPA): Doutorado em Engenharia Elétrica com ênfase em Inteligência Computacional. Belém, PA (2018-2022).</p>
 
 <p align = 'justify' >
-  * Universidade Federal do Pará (UFPA): Mestrado em Engenharia Elétrica com ênfase em Sistemas de Controle. Belém, PA (2016-2018).</p>
+Universidade Federal do Pará (UFPA): Mestrado em Engenharia Elétrica com ênfase em Sistemas de Controle. Belém, PA (2016-2018).</p>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
