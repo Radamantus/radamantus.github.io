@@ -55,5 +55,4 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 **Banco de Dados Relacionais**: SQL e MySQL.
 **Extração, Limpeza e Visualização (ETL) de Dados**: Matlab, Excel e Power BI.
 **Idiomas**: Português (Nativo), Inglês (Avançado).
-
-123456789
+**Perfil Pessoal**: Profissional automotivado, disciplinado, pontual e com facilidade de aprender.
