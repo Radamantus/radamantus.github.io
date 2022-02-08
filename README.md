@@ -16,6 +16,10 @@ Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA): Graduaç
 
 ### Experiência Profissional
 
+[Laboratório de Controle e Sistemas (LACOS-UFPA)](https://lacos.ufpa.br/): Pesquisador (Bolsista CAPES - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) de mestrado e doutorado responsável por produzir conhecimento científico e desenvolver pesquisa na área de Sistemas de Controle e Inteligência Computacional aplicadas em drones, próteses mioelétricas de mão, processos industriais e sistemas de controle didáticos em colaboração com alunos de graduação, mestrado e doutorado.
+
+Universidade Federal do Pará (UFPA): Professor universitário da Faculdade de Engenharia Industrial da UFPA para ministrar a disciplina de Análise de Sistemas Lineares para graduação em Engenharia Industrial, onde apresentou-se aos dicentes conceitos de Classificação de Sistemas Dinâmicos, Teoria de Sistemas Lineares e Teoria de Controle Clássico e Moderno.
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Radamantus/radamantus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
