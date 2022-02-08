@@ -69,6 +69,13 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 - **Controle de Posição de um Braço Robótico com um Grau de Liberdade para Diferentes Cargas**: Gustavo da Silva Madi. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2019).
 
+- **Projeto e Controle de Posição de um Protótipo Túnel de Vento Vertical Utilizando Diferentes Estratégias de Controle**: Linsley da Costa Oliveira Dias. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2019).
+
+- **Projeto, Identificação e Controle de um Processo Fan and Plate**: Thiago José Alves Monteiro. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2019).
+
+- **Construção e Controle de uma Prótese Mecânica Ativa de Baixo Custo Utilizando Impressão 3D**: João Carlos Ferreira Gonçalves. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2018).
+
+- **Proposta de Modelamento de Sistemas Mioelétricos para Classificação de Movimentos**: Gabriela Souza de Amorim. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2018).
 
 ### Qualificações Adicionais
 
