@@ -35,7 +35,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 [Predição da Série Temporal de Mackey-Glass via Redes Neurais Artificiais aplicada à Biomédica](https://drive.google.com/file/d/1dEyjhLGeUfrrw3H5fqOUtaJGSpX3C6HU/view?usp=sharing):
 
-<p align = 'justify' >- A Série temporal de Mackey-Glass representa a dinâmica de sistemas fisiológicos humanos e apresenta comportamento tanto periódico quanto caótico em sua dinâmica. Este artigo propõe uma rede neural Perceptron Multicamadas que reproduz a dinâmica da série temporal mesmo na presença de alteração de seus parâmetros. Simulações numéricas englobam tanto a dinâmica periódica quanto caótica da série, a fim de comprovar a eficácia da rede neural proposta (2017).
+<p align = 'justify' >- A Série temporal de Mackey-Glass representa a dinâmica de sistemas fisiológicos humanos e apresenta comportamento tanto periódico quanto caótico em sua dinâmica. Este artigo propõe uma rede neural Perceptron Multicamadas que reproduz a dinâmica da série temporal mesmo na presença de alteração de seus parâmetros. Simulações numéricas englobam tanto a dinâmica periódica quanto caótica da série, a fim de comprovar a eficácia da rede neural proposta (2017).</p>
 
 ### Support or Contact
 
