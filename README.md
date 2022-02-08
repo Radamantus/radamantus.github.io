@@ -31,14 +31,12 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 <p align = 'justify' >- Neste trabalho são comparados o desempenho entre controladores por ganho programado tradicional e uma rede de controladores locais com supervisão fuzzy. As análises são realizadas em uma válvula não linear e uma planta Motor-Tacogerado. A supervisão fuzzy é inserida de forma a atenuar essas mudanças bruscas, ponderando os valores dos controladores estáticos para encontrar um novo conjunto de parâmetros a cada instante de tempo (2021).</p>
 
 [Projeto de Controladores PID Locais com Supervisão Fuzzy](https://ieeexplore.ieee.org/document/8891944):
-<p align = 'justify' >- Este trabalho propõe uma estratégia fuzzy viável, do tipo rede de controladores convencionais locais supervisionados por lógica fuzzy, objetivando a melhoria da estabilidade e robustez de um sistema eletromecânico didático. Testes experimentais confirmam a superioridade do método inteligente proposto sobre os métodos clássicos de controle para lidar com não linearidades e variações paramétricas do sistema em toda a faixa de operação estudada.</p>
+<p align = 'justify' >- Este trabalho propõe uma estratégia fuzzy viável, do tipo rede de controladores convencionais locais supervisionados por lógica fuzzy, objetivando a melhoria da estabilidade e robustez de um sistema eletromecânico didático. Testes experimentais confirmam a superioridade do método inteligente proposto sobre os métodos clássicos de controle para lidar com não linearidades e variações paramétricas do sistema em toda a faixa de operação estudada (2019).</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Radamantus/radamantus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Predição da Série Temporal de Mackey-Glass via Redes Neurais Artificiais aplicada à Biomédica](https://drive.google.com/file/d/1dEyjhLGeUfrrw3H5fqOUtaJGSpX3C6HU/view?usp=sharing):
+
+<p align = 'justify' >- A Série temporal de Mackey-Glass representa a dinâmica de sistemas fisiológicos humanos e apresenta comportamento tanto periódico quanto caótico em sua dinâmica. Este artigo propõe uma rede neural Perceptron Multicamadas que reproduz a dinâmica da série temporal mesmo na presença de alteração de seus parâmetros. Simulações numéricas englobam tanto a dinâmica periódica quanto caótica da série, a fim de comprovar a eficácia da rede neural proposta (2017).
 
 ### Support or Contact
 
-You can use the [editor on GitHub](https://github.com/Radamantus/radamantus.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+123456789
