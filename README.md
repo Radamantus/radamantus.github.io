@@ -30,6 +30,9 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 [Ganho Programado Tradicional e Rede de Controladores com Supervisão Fuzzy](https://sbic.org.br/eventos/cbic_2021/cbic2021-114):
 <p align = 'justify' >- Neste trabalho são comparados o desempenho entre controladores por ganho programado tradicional e uma rede de controladores locais com supervisão fuzzy. As análises são realizadas em uma válvula não linear e uma planta Motor-Tacogerado. A supervisão fuzzy é inserida de forma a atenuar essas mudanças bruscas, ponderando os valores dos controladores estáticos para encontrar um novo conjunto de parâmetros a cada instante de tempo (2021).</p>
 
+[Projeto de Controlador LQG aplicado à um Sistema Eletrônico](https://ieeexplore.ieee.org/document/9082730):
+<p align = 'justify' >- Este trabalho apresenta uma aplicação prática de um controlador LQG (Linear Quadrático Gaussiano) em um sistema eletrônico. O sistema é representada por um modelo discreto e linear de segunda ordem. A análise de robustez é feita tanto para a malha de controle quanto para o filtro de Kalman. Testes simulados e práticos do tipo: resposta ao degrau, perturbação de carga na entrada da planta, saída da planta contaminada com ruído guaussiano são realizados a fim de avaliar o desempenho e a robustez propiciados pelo controle LQG. (2020).</p>
+
 [Projeto de Controladores PID Locais com Supervisão Fuzzy](https://ieeexplore.ieee.org/document/8891944):
 <p align = 'justify' >- Este trabalho propõe uma estratégia fuzzy viável, do tipo rede de controladores convencionais locais supervisionados por lógica fuzzy, objetivando a melhoria da estabilidade e robustez de um sistema eletromecânico didático. Testes experimentais confirmam a superioridade do método inteligente proposto sobre os métodos clássicos de controle para lidar com não linearidades e variações paramétricas do sistema em toda a faixa de operação estudada (2019).</p>
 
