@@ -83,10 +83,10 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 ### Licenças e Certificações
 
-- **Python Fundamentos para Análise de Dados**: Carga Horária: 60 Horas. Data Science Academy (2022).
-- **Big Data Fundamentos**: Carga Horária: 12 Horas. Data Science Acadademy (2022).
-- **Inteligência Artificial Fundamentos**: Carga Horária: 8 Horas. Data Science Academy (2022).
-- **Introdução à Ciência de Dados**: Carga Horária: 12 Horas. Data Science Academy (2021).
+1. **Python Fundamentos para Análise de Dados**: Carga Horária: 60 Horas. Data Science Academy (2022).
+2. **Big Data Fundamentos**: Carga Horária: 12 Horas. Data Science Acadademy (2022).
+3. **Inteligência Artificial Fundamentos**: Carga Horária: 8 Horas. Data Science Academy (2022).
+4. **Introdução à Ciência de Dados**: Carga Horária: 12 Horas. Data Science Academy (2021).
 - **Computer Vision**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
 - **Natural Language Processing**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
 - **Intro to Deep Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
@@ -95,8 +95,8 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Feature Engineering**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
 - **Data Cleaning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
 - **Data Visualization**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-- **Pandas**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
 - **Time Series**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+- **Pandas**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
 - **Python**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
 - **Advanced SQL**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
 - **Intro SQL**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
