@@ -83,14 +83,6 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 ### 📊 Qualificações Adicionais
 
-- **Programação Python**: Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn.
-- **Aprendizado de Máquina**: Machine Learning e Deep Learning.
-- **Inteligência Computacional**: Controle e Lógica Fuzzy.
-- **Automação de Processos Repetitivos**: RPA.
-- **Banco de Dados Relacionais**: SQL e MySQL.
-- **Extração, Limpeza e Visualização (ETL) de Dados**: Matlab, Excel e Power BI.
-- **Idiomas**: Português (Nativo), Inglês (Avançado).
-
 - **Linguagem de Programação Python** (Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn);
 - **Aprendizado de Máquina** (Machine Learning e Deep Learning);
 - **Inteligência Computacional** (Lógica e Controle Fuzzy);
