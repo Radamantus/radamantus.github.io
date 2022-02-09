@@ -90,3 +90,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Banco de Dados Relacionais**: SQL e MySQL;
 - **Extração, Limpeza e Visualização de Dados**: Matlab, Excel e Power BI.
 - **Idiomas**: Português Nativo e Inglês Fluente.
+
+### 📬 Informações Complementares
+
+- [__LinkedIn__](https://www.linkedin.com/in/luismesquitacastro)
