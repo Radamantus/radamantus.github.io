@@ -81,7 +81,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 - **Proposta de Modelamento de Sistemas Mioelétricos para Classificação de Movimentos**: Gabriela Souza de Amorim. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2018).
 
-### 📊 Qualificações Adicionais
+### 🤖 Qualificações Adicionais
 
 - **Programação Python**: Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn;
 - **Aprendizado de Máquina**: Machine Learning e Deep Learning;
