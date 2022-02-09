@@ -91,7 +91,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Extração, Limpeza e Visualização de Dados**: Matlab, Excel e Power BI.
 - **Idiomas**: Português Nativo e Inglês Fluente.
 
-### 🧮 Informações Complementares
+### 🎯 Informações Complementares
 
 - [GitHub](https://github.com/Radamantus)
 - [Lattes](http://lattes.cnpq.br/2756070135275617)
