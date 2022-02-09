@@ -75,11 +75,19 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 - **Projeto e Controle de Posição de um Protótipo Túnel de Vento Vertical Utilizando Diferentes Estratégias de Controle**: Linsley da Costa Oliveira Dias. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2019).
 
-- >**Projeto, Identificação e Controle de um Processo Fan and Plate**: Thiago José Alves Monteiro. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2019).
+- **Projeto, Identificação e Controle de um Processo Fan and Plate**: Thiago José Alves Monteiro. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2019).
 
 - **Construção e Controle de uma Prótese Mecânica Ativa de Baixo Custo Utilizando Impressão 3D**: João Carlos Ferreira Gonçalves. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2018).
 
 - **Proposta de Modelamento de Sistemas Mioelétricos para Classificação de Movimentos**: Gabriela Souza de Amorim. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2018).
+
+### Licenças e Certificações
+
+- **Python Fundamentos para Análise de Dados**: Carga Horária: 60 Horas. Data Science Acadademy (2022).
+- **Big Data Fundamentos**: Carga Horária: 12 Horas. Data Science Acadademy (2022).
+- **Inteligência Artificial Fundamentos**: Carga Horária: 8 Horas. Data Science Acadademy (2022).
+- **Introdução à Ciência de Dados**: Carga Horária: 12 Horas. Data Science Acadademy (2021).
+- **Time Series**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
 
 ### 🤖 Qualificações Adicionais
 
@@ -91,7 +99,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Extração, Limpeza e Visualização de Dados**: Matlab, Excel e Power BI.
 - **Idiomas**: Português Nativo e Inglês Fluente.
 
->### 🎯 Informações Complementares
+### 🎯 Informações Complementares
 
 - [GitHub](https://github.com/Radamantus)
 - [Lattes](http://lattes.cnpq.br/2756070135275617)
