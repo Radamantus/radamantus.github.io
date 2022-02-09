@@ -100,9 +100,12 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Python**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
 - **Advanced SQL**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
 - **Intro SQL**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
+- **SQL Completo**: Carga Horária: 12 Horas. Udemy Academy (2021).
+- **Power BI Completo**: Carga Horária: 9 Horas. Udemy Academy (2021).
+- **Comandos e Acionamentos Elétricos**: Carga Horária: 9 Horas. Udemy Academy (2021).
 - **Técnicas de Parametrização de Inversor de Frequência**: Carga Horária: 48 Horas. SENAI-PA (2016).
 - **Auxiliar de Eletrônica**: Carga Horária: 160 Horas. SENAI-PA (2015).
-- **Língua Inglesa**: Carga Horária: 720 Horas. School of Languages Aslan (2010).
+- **Língua Inglesa**: Carga Horária: 720 Horas. Escola de Idiomas Aslan (2010).
 
 ### 🤖 Qualificações Adicionais
 
