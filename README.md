@@ -49,9 +49,13 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 <p align = 'justify' >- A Série temporal de Mackey-Glass representa a dinâmica de sistemas fisiológicos humanos e apresenta comportamento tanto periódico quanto caótico em sua dinâmica. Este artigo propõe uma rede neural Perceptron Multicamadas que reproduz a dinâmica da série temporal mesmo na presença de alteração de seus parâmetros. Simulações numéricas englobam tanto a dinâmica periódica quanto caótica da série, a fim de comprovar a eficácia da rede neural proposta (2017).</p>
 
-[Estudo Comparativo de Controladores PID e GMV Aplicados em  Sistemas Não-Lineares](https://drive.google.com/file/d/0B5xF8Aqd8Jjub1FuRjBKWFNCYU0/view?usp=sharing&resourcekey=0-fJyc565Xmalos91Gwfjgbw):
+[Estudo Comparativo de Controladores PID e GMV Aplicados em  Sistemas Não Lineares](https://drive.google.com/file/d/0B5xF8Aqd8Jjub1FuRjBKWFNCYU0/view?usp=sharing&resourcekey=0-fJyc565Xmalos91Gwfjgbw):
 
 <p align = 'justify' >- Este artigo tem como objetivo apresentar um estudo comparativo de duas técnicas de controle, clássica e avançada, relacionadas aos projetos dos controladores PID e GMV, respectivamente. Inicialmente, os projetos destes controladores e os índices de desempenho, utilizados para avaliação quantitativa dos resultados, são brevemente descritos. Ademais, os projetos dos controladores PID e GMV são aplicados à um sistema de válvula de controle não linear e à um sistema de transmissão flexível, apresentando-se comparações dos índices de desempenho e aspectos como rastreamento de referência, rejeição de perturbação e tratamento de ruídos. Os resultados mostrados neste artigo são todos baseados em simulações numéricas. (2016).</p>
+
+[Projeto de Estabilizadores de Sistemas Elétricos de Potência utilizando Controle Adaptativo](https://drive.google.com/file/d/0B5xF8Aqd8JjuaDEzX2FFSExGemM/view?usp=sharing&resourcekey=0-pI8PEsimyRq6HU8BIERAxA):
+
+<p align = 'justify' >- Neste trabalho é investigado o desempenho de uma estratégia de controle adaptativo, do tipo auto-ajustável, aplicada ao amortecimento de oscilações eletromecânicas em sistemas de potência interligados. Em cada condição de operação, um modelo paramétrico linear é estimado online, via o método de mínimos quadrados recursivo. Os parâmetros do modelo estimado são subsequentemente utilizados na atualização dos ganhos da lei de controle inserida no estabilizador, a cada intervalo de amostragem. Os parâmetros do controlador são calculados via a técnica de posicionamento de polos, de modo a deslocar radialmente os polos do sistema em malha fechada para uma região de maior estabilidade. (2015).</p>
 
 [Coleção de Estudos de Caso na Área de Ciência de Dados](https://github.com/Radamantus/Python_Notebooks):
 <p align = 'justify' >- Neste repositório são armazenados vários casos de estudo usados como material de apoio.</p>
