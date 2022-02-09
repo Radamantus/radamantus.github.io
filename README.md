@@ -93,6 +93,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 ### 📬 Informações Complementares
 
+- [GitHub](https://github.com/Radamantus)
 - [Lattes](http://lattes.cnpq.br/2756070135275617)
 - [LinkedIn](https://www.linkedin.com/in/luismesquitacastro)
 - [Telegram](https://t.me/gutossauros)
