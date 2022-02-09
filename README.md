@@ -89,7 +89,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Introdução à Ciência de Dados**: Carga Horária: 12 Horas. Data Science Academy (2021).
 - **Computer Vision**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
 - **Intro to Deep Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-- - **Intermediate Machine Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+- **Intermediate Machine Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
 - **Intro to Machine Learning**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
 - **Feature Engineering**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
 - **Data Cleaning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
@@ -98,6 +98,9 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Time Series**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
 - **Natural Language Processing**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
 - **Python**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+- **Técnicas de Parametrização de Inversor de Frequência**: Carga Horária: 48 Horas. SENAI-PA (2016).
+- **Auxiliar de Eletrônica**: Carga Horária: 160 Horas. SENAI-PA (2015).
+- **Língua Inglesa**: Carga Horária: 720 Horas. School of Languages Aslan (2010).
 
 ### 🤖 Qualificações Adicionais
 
