@@ -90,4 +90,11 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Banco de Dados Relacionais**: SQL e MySQL.
 - **Extração, Limpeza e Visualização (ETL) de Dados**: Matlab, Excel e Power BI.
 - **Idiomas**: Português (Nativo), Inglês (Avançado).
-- **Perfil Pessoal**: Profissional automotivado, disciplinado, pontual e com facilidade de aprender.
+
+- **Linguagem de Programação Python** (Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn);
+- **Aprendizado de Máquina** (Machine Learning e Deep Learning);
+- **Inteligência Computacional** (Lógica e Controle Fuzzy);
+- **Automação de Processos Repetitivos** (RPA);
+- **Banco de Dados Relacionais** (SQL e MySQL);
+- **Extração, Limpeza e Visualização de Dados** (Matlab, Excel e Power BI).
+- **Idiomas** (Português Nativo e Inglês Fluente).
