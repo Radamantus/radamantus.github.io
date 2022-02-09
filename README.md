@@ -93,4 +93,6 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 ### 📬 Informações Complementares
 
-- [__LinkedIn__](https://www.linkedin.com/in/luismesquitacastro)
+- [LinkedIn](https://www.linkedin.com/in/luismesquitacastro)
+- [Lattes](http://lattes.cnpq.br/2756070135275617)
+- [Telegram](https://t.me/gutossauros)
