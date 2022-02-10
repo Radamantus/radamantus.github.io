@@ -60,7 +60,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 <p align = 'justify' >- Neste trabalho é investigado o desempenho de uma estratégia de controle adaptativo, do tipo auto-ajustável, aplicada ao amortecimento de oscilações eletromecânicas em sistemas de potência interligados. Em cada condição de operação, um modelo paramétrico linear é estimado online, via o método de mínimos quadrados recursivo. Os parâmetros do modelo estimado são subsequentemente utilizados na atualização dos ganhos da lei de controle inserida no estabilizador, a cada intervalo de amostragem. Os parâmetros do controlador são calculados via a técnica de posicionamento de polos, de modo a deslocar radialmente os polos do sistema em malha fechada para uma região de maior estabilidade (2015).</p>
 
-[Previsão da Série Temporal de Mackey-Glass Utilizando ANFIS](https://drive.google.com/file/d/0B5xF8Aqd8JjuSlNrZVhzWTJUbTA/view?usp=sharing&resourcekey=0-r5z4eqZ6M9LICJmENDs7LA):
+[Previsão da Série Temporal de Mackey-Glass utilizando ANFIS](https://drive.google.com/file/d/0B5xF8Aqd8JjuSlNrZVhzWTJUbTA/view?usp=sharing&resourcekey=0-r5z4eqZ6M9LICJmENDs7LA):
 
 <p align = 'justify' >- A Série temporal de Mackey-Glass representa a dinâmica de sistemas fisiológicos humanos e apresenta comportamento tanto periódico quanto caótico em sua dinâmica. Este artigo propõe um sis-tema fuzzy construído com auxílio da ferramenta ANFIS que reproduz a dinâmica da série temporal mesmo na presença de alteração de seus parâmetros. Simulações numéricas englobam tanto a dinâmica periódica quanto caótica da série, a fim de comprovar a eficácia do sistema fuzzy proposto. (2014).</p>
 
