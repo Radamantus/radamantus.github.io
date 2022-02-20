@@ -1,6 +1,6 @@
 ## Luís Augusto Mesquita de Castro
 
-<img src="https://raw.githubusercontent.com/Radamantus/Radamantus/main/dragon_ball.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Radamantus Picture">
+<img src="https://raw.githubusercontent.com/Radamantus/radamantus.github.io/main/dragon_ball.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Radamantus Picture">
 
 <p align = 'justify' >
 Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me em na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo artigos científicos publicados em periódicos internacionais e congressos nacionais. Possuo mais de 8 anos de experiência em pesquisa acadêmica nas áreas: Análise e Classificação de Dados; Sistemas Inteligentes; Redes Neurais Artificiais; Lógica e Controle Fuzzy; Identificação de Sistemas Dinâmicos; Algoritmos Evolucionários; Controle Digital e Adaptativo; Controle Preditivo e Estocástico; Inteligência Computacional com aplicações em Processos Industriais, Sistemas Elétricos de Potência e Sistemas Biomecânicos.</p>
