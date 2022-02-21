@@ -98,7 +98,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 - **Proposta de Modelamento de Sistemas Mioelétricos para Classificação de Movimentos**: Gabriela Souza de Amorim. Engenharia de Controle e Automação. Instituto Federal de Educação, Ciência e Tecnologia do Pará (2018).
 
-### Licenças e Certificações
+### 🏅 Licenças e Certificações
 
 1. **Python Fundamentos para Análise de Dados**: Carga Horária: 60 Horas. Data Science Academy (2022).
 2. **Big Data Fundamentos**: Carga Horária: 12 Horas. Data Science Acadademy (2022).
