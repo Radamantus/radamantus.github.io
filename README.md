@@ -130,7 +130,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Aprendizado de Máquina**: Machine Learning e Deep Learning;
 - **Inteligência Computacional**: Lógica e Controle Fuzzy;
 - **Automação de Processos Repetitivos**: RPA;
-- **Banco de Dados Relacionais**: SQL e MySQL;
+- **Banco de Dados Relacionais**: SQL, SQLite e MySQL;
 - **Extração, Limpeza e Visualização de Dados**: Matlab, Excel e Power BI.
 - **Idiomas**: Português Nativo e Inglês Fluente.
 
