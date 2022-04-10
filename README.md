@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Radamantus/radamantus.github.io/main/dragon_ball.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Radamantus Picture">
 
 <p align = 'justify' >
-Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Atualmente sou aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo artigos científicos publicados em periódicos internacionais e congressos nacionais. Possuo mais de 8 anos de experiência em pesquisa acadêmica nas áreas: Análise e Classificação de Dados; Sistemas Inteligentes; Redes Neurais Artificiais; Lógica e Controle Fuzzy; Identificação de Sistemas Dinâmicos; Algoritmos Evolucionários; Controle Digital e Adaptativo; Controle Preditivo e Estocástico; Inteligência Computacional com aplicações em Processos Industriais, Sistemas Elétricos de Potência e Sistemas Biomecânicos.</p>
+Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Atualmente sou colaborador no Instituto de Pesquisas Eldorado (IPE) e aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo artigos científicos publicados em periódicos internacionais e congressos nacionais. Possuo mais de 8 anos de experiência em pesquisa acadêmica nas áreas: Análise e Classificação de Dados; Sistemas Inteligentes; Redes Neurais Artificiais; Lógica e Controle Fuzzy; Identificação de Sistemas Dinâmicos; Algoritmos Evolucionários; Controle Digital e Adaptativo; Controle Preditivo e Estocástico; Inteligência Computacional com aplicações em Processos Industriais, Sistemas Elétricos de Potência e Sistemas Biomecânicos.</p>
 
 ### 🎓 Formação Acadêmica
 
@@ -17,6 +17,9 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 - Graduação em Engenharia de Controle e Automação: Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Belém, PA. (2010-2015).</p>
 
 ### 💼 Experiência Profissional
+
+[Instituto de Pesquisas Eldorado (IPE)](https://www.linkedin.com/company/instituto-de-pesquisas-eldorado/about):
+<p align = 'justify' >- Analista de Software e Pesquisador vinculado ao projeto AI for Services da Motorola. Cientista de dados responsável por conduzir análises de dados, criar modelos preditivos e ricas visualizações para mostrar os insights aos parceiros de negócio. (2022-Atual).</p>
 
 [Laboratório de Controle e Sistemas (LACOS)](https://lacos.ufpa.br):
 <p align = 'justify' >- Pesquisador (Bolsista CAPES - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) de mestrado e doutorado responsável por produzir conhecimento científico e desenvolver pesquisa na área de Sistemas de Controle e Inteligência Computacional aplicadas em drones, próteses mioelétricas de mão, processos industriais e sistemas de controle didáticos em colaboração com alunos de graduação, mestrado e doutorado (2016-2022).</p>
