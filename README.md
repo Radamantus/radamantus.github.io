@@ -103,29 +103,30 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 ### 🏆 Licenças e Certificações
 
-1. **Python Fundamentos para Análise de Dados**: Carga Horária: 60 Horas. Data Science Academy (2022).
-2. **Big Data Fundamentos**: Carga Horária: 12 Horas. Data Science Acadademy (2022).
-3. **Inteligência Artificial Fundamentos**: Carga Horária: 8 Horas. Data Science Academy (2022).
-4. **Introdução à Ciência de Dados**: Carga Horária: 12 Horas. Data Science Academy (2021).
-5. **Computer Vision**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-6. **Natural Language Processing**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
-7. **Intro to Deep Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-8. **Intermediate Machine Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-9. **Intro to Machine Learning**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
-10. **Feature Engineering**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
-11. **Data Cleaning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-12. **Data Visualization**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-13. **Time Series**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
-14. **Pandas**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-15. **Python**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
-16. **Advanced SQL**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-17. **Intro SQL**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
-18. **SQL Completo**: Carga Horária: 12 Horas. Udemy Academy (2021).
-19. **Power BI Completo**: Carga Horária: 9 Horas. Udemy Academy (2021).
-20. **Comandos e Acionamentos Elétricos**: Carga Horária: 9 Horas. Udemy Academy (2021).
-21. **Técnicas de Parametrização de Inversor de Frequência**: Carga Horária: 48 Horas. SENAI-PA (2016).
-22. **Auxiliar de Eletrônica**: Carga Horária: 160 Horas. SENAI-PA (2015).
-23. **Língua Inglesa**: Carga Horária: 720 Horas. Escola de Idiomas Aslan (2010).
+1. **BigQuery: o Banco de Dados da Google para Big Data**: Carga Horária: 12 Horas. Alura (2022).
+2. **Python Fundamentos para Análise de Dados**: Carga Horária: 60 Horas. Data Science Academy (2022).
+3. **Big Data Fundamentos**: Carga Horária: 12 Horas. Data Science Acadademy (2022).
+4. **Inteligência Artificial Fundamentos**: Carga Horária: 8 Horas. Data Science Academy (2022).
+5. **Introdução à Ciência de Dados**: Carga Horária: 12 Horas. Data Science Academy (2021).
+6. **Computer Vision**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+7. **Natural Language Processing**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
+8. **Intro to Deep Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+9. **Intermediate Machine Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+10. **Intro to Machine Learning**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
+11. **Feature Engineering**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+12. **Data Cleaning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+13. **Data Visualization**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+14. **Time Series**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+15. **Pandas**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+16. **Python**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+17. **Advanced SQL**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+18. **Intro SQL**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
+19. **SQL Completo**: Carga Horária: 12 Horas. Udemy Academy (2021).
+20. **Power BI Completo**: Carga Horária: 9 Horas. Udemy Academy (2021).
+21. **Comandos e Acionamentos Elétricos**: Carga Horária: 9 Horas. Udemy Academy (2021).
+22. **Técnicas de Parametrização de Inversor de Frequência**: Carga Horária: 48 Horas. SENAI-PA (2016).
+23. **Auxiliar de Eletrônica**: Carga Horária: 160 Horas. SENAI-PA (2015).
+24. **Língua Inglesa**: Carga Horária: 720 Horas. Escola de Idiomas Aslan (2010).
 
 ### 🤖 Qualificações Adicionais
 
@@ -134,7 +135,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Inteligência Computacional**: Lógica e Controle Fuzzy;
 - **Automação de Processos Repetitivos**: RPA;
 - **Banco de Dados Relacionais**: SQL, SQLite e MySQL;
-- **Banco de Dados Não Relacionais**: NoSQL e MongoDB;
+- **Banco de Dados Não Relacionais**: NoSQL, MongoDB e BigQuery;
 - **Extração, Limpeza e Visualização de Dados**: Matlab, Excel e Power BI.
 - **Idiomas**: Português Nativo e Inglês Fluente.
 
