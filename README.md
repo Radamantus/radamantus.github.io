@@ -105,32 +105,33 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 ### 🏆 Licenças e Certificações
 
-1. **Google Data Studio: Introdução à Ferramenta**: Carga Horária: 10 Horas. Alura (2022).
-2. **BigQuery: Funções do BigQuery**: Carga Horária: 16 Horas. Alura (2022).
-3. **BigQuery: o Banco de Dados da Google para Big Data**: Carga Horária: 12 Horas. Alura (2022).
-4. **Python Fundamentos para Análise de Dados**: Carga Horária: 60 Horas. Data Science Academy (2022).
-5. **Big Data Fundamentos**: Carga Horária: 12 Horas. Data Science Acadademy (2022).
-6. **Inteligência Artificial Fundamentos**: Carga Horária: 8 Horas. Data Science Academy (2022).
-7. **Introdução à Ciência de Dados**: Carga Horária: 12 Horas. Data Science Academy (2021).
-8. **Computer Vision**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-9. **Natural Language Processing**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
-10. **Intro to Deep Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-11. **Intermediate Machine Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-12. **Intro to Machine Learning**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
-13. **Feature Engineering**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
-14. **Data Cleaning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-15. **Data Visualization**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-16. **Time Series**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
-17. **Pandas**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-18. **Python**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
-19. **Advanced SQL**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-20. **Intro SQL**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
-21. **SQL Completo**: Carga Horária: 12 Horas. Udemy Academy (2021).
-22. **Power BI Completo**: Carga Horária: 9 Horas. Udemy Academy (2021).
-23. **Comandos e Acionamentos Elétricos**: Carga Horária: 9 Horas. Udemy Academy (2021).
-24. **Técnicas de Parametrização de Inversor de Frequência**: Carga Horária: 48 Horas. SENAI-PA (2016).
-25. **Auxiliar de Eletrônica**: Carga Horária: 160 Horas. SENAI-PA (2015).
-26. **Língua Inglesa**: Carga Horária: 720 Horas. Escola de Idiomas Aslan (2010).
+1. **Google Data Studio: Acessando o MySQL**: Carga Horária: 14 Horas. Alura (2022).
+2. **Google Data Studio: Introdução à Ferramenta**: Carga Horária: 10 Horas. Alura (2022).
+3. **BigQuery: Funções do BigQuery**: Carga Horária: 16 Horas. Alura (2022).
+4. **BigQuery: o Banco de Dados da Google para Big Data**: Carga Horária: 12 Horas. Alura (2022).
+5. **Python Fundamentos para Análise de Dados**: Carga Horária: 60 Horas. Data Science Academy (2022).
+6. **Big Data Fundamentos**: Carga Horária: 12 Horas. Data Science Acadademy (2022).
+7. **Inteligência Artificial Fundamentos**: Carga Horária: 8 Horas. Data Science Academy (2022).
+8. **Introdução à Ciência de Dados**: Carga Horária: 12 Horas. Data Science Academy (2021).
+9. **Computer Vision**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+10. **Natural Language Processing**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
+11. **Intro to Deep Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+12. **Intermediate Machine Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+13. **Intro to Machine Learning**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
+14. **Feature Engineering**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+15. **Data Cleaning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+16. **Data Visualization**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+17. **Time Series**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+18. **Pandas**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+19. **Python**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+20. **Advanced SQL**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+21. **Intro SQL**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
+22. **SQL Completo**: Carga Horária: 12 Horas. Udemy Academy (2021).
+23. **Power BI Completo**: Carga Horária: 9 Horas. Udemy Academy (2021).
+24. **Comandos e Acionamentos Elétricos**: Carga Horária: 9 Horas. Udemy Academy (2021).
+25. **Técnicas de Parametrização de Inversor de Frequência**: Carga Horária: 48 Horas. SENAI-PA (2016).
+26. **Auxiliar de Eletrônica**: Carga Horária: 160 Horas. SENAI-PA (2015).
+27. **Língua Inglesa**: Carga Horária: 720 Horas. Escola de Idiomas Aslan (2010).
 
 ### 🤖 Qualificações Adicionais
 
