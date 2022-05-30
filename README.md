@@ -5,20 +5,6 @@
 <p align = 'justify' >
 Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Atualmente sou colaborador no Instituto de Pesquisas Eldorado (IPE) e aluno do último ano de doutorado em Engenharia Elétrica pela UFPA. Estou constantemente desenvolvendo minhas habilidades e qualificando-me na área de Ciência de Dados (Data Science) e Machine Learning (ML) voltada para solução de problemas de negócio. Possuo artigos científicos publicados em periódicos internacionais e congressos nacionais. Possuo mais de 8 anos de experiência em pesquisa acadêmica nas áreas: Análise e Classificação de Dados; Sistemas Inteligentes; Redes Neurais Artificiais; Lógica e Controle Fuzzy; Identificação de Sistemas Dinâmicos; Algoritmos Evolucionários; Controle Digital e Adaptativo; Controle Preditivo e Estocástico; Inteligência Computacional.</p>
 
-### 🔮 Habilidades
-<div style="display: inline_block"><br>
-  <img align="center" alt="Guto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Guto-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Guto-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Guto-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Guto-Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Guto-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Guto-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Guto-SQlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Guto-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-  <img align="center" alt="Guto-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-</div>
-
 ### 🎓 Formação Acadêmica
 
 <p align = 'justify' >
