@@ -143,7 +143,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 - **Banco de Dados Relacionais**: SQL, SQLite e MySQL;
 - **Banco de Dados Não Relacionais**: NoSQL, MongoDB e BigQuery;
 - **Extração, Limpeza e Visualização de Dados**: Matlab, Google Sheets e Data Studio.
-- **Idiomas**: Português Nativo e Inglês Fluente.
+- **Idiomas**: Português Nativo e Inglês Fluente....
 
 ### 🎯 Informações Complementares
 
