@@ -19,7 +19,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 ### 💼 Experiência Profissional
 
 [Instituto de Pesquisas Eldorado (IPE)](https://www.linkedin.com/company/instituto-de-pesquisas-eldorado/about):
-<p align = 'justify' >- Analista de Software e Pesquisador vinculado ao projeto AI for Services da Motorola. Cientista de dados responsável por conduzir análises de dados, criar modelos preditivos e ricas visualizações para mostrar os insights aos parceiros de negócio. (2022-Atual).</p>
+<p align = 'justify' >- Analista de Software e Pesquisador vinculado ao Projeto AI for Services da Motorola. Busca por padrões ocultos em Big Data, desenvolvendo modelos de Machine Learning aplicados à Business Analytics. Cientista de dados responsável por conduzir análises de dados, criar modelos preditivos e ricas visualizações para mostrar os insights aos parceiros de negócio. (2022-Atual).</p>
 
 [Laboratório de Controle e Sistemas (LACOS)](https://lacos.ufpa.br):
 <p align = 'justify' >- Pesquisador (Bolsista CAPES - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) de mestrado e doutorado responsável por produzir conhecimento científico e desenvolver pesquisa na área de Sistemas de Controle e Inteligência Computacional aplicadas em drones, próteses mioelétricas de mão, processos industriais e sistemas de controle didáticos em colaboração com alunos de graduação, mestrado e doutorado (2016-2022).</p>
