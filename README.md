@@ -108,6 +108,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 ### 🏆 Licenças e Certificações
 
+1. **Google BigQuery e Data Studio**: Carga Horária: 20 Horas. Alura (2022).
 1. **Acesso ao BigQuery: Manipulação Programático Linguagens**: Carga Horária: 12 Horas. Alura (2022).
 2. **BigQuery: Manipulação de Dados**: Carga Horária: 14 Horas. Alura (2022).
 3. **Google Data Studio: Parâmetros e BigQuery**: Carga Horária: 14 Horas. Alura (2022).
