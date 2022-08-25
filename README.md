@@ -108,6 +108,7 @@ Centrais Elétricas do Norte do Brasil (ELETRONORTE):
 
 ### 🏆 Licenças e Certificações
 
+1. **Data Analysis: Google Sheets**: Carga Horária: 6 Horas. Alura (2022).
 1. **Formação Google BigQuery e Data Studio**: Carga Horária: 126 Horas. Alura (2022).
 2. **Google BigQuery e Data Studio: Projeto Final**: Carga Horária: 20 Horas. Alura (2022).
 3. **Acesso ao BigQuery: Manipulação Programático Linguagens**: Carga Horária: 12 Horas. Alura (2022).
