@@ -24,10 +24,10 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 [Laboratório de Controle e Sistemas (LACOS)](https://lacos.ufpa.br):
 <p align = 'justify' >- Pesquisador (Bolsista CAPES - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) de mestrado e doutorado responsável por produzir conhecimento científico e desenvolver pesquisa na área de Sistemas de Controle e Inteligência Computacional aplicadas em drones, próteses mioelétricas de mão, processos industriais e sistemas de controle didáticos em colaboração com alunos de graduação, mestrado e doutorado (2016-2022).</p>
 
-Universidade Federal do Pará (UFPA):
+[Universidade Federal do Pará (UFPA)](https://portal.ufpa.br):
 <p align = 'justify' >- Professor universitário da Faculdade de Engenharia Industrial da UFPA para ministrar a disciplina de Análise de Sistemas Lineares para graduação em Engenharia Industrial, onde apresentou-se aos dicentes conceitos de Classificação de Sistemas Dinâmicos, Teoria de Sistemas Lineares e Teoria de Controle Clássico e Moderno (2018-2018).</p>
 
-Centrais Elétricas do Norte do Brasil (ELETRONORTE):
+[Centrais Elétricas do Norte do Brasil (ELETRONORTE)](https://www.eletronorte.com.br):
 <p align = 'justify' >- Estagiário na Gerência de Manutenção de Eletroeletrônicos. As principais atividades eram: Análise dos desenhos técnicos já impressos; Aplicação de desenhos lógicos e funcionais na prática e desenvolvimento com CLP; Estudo e aprendizado dos desenhos técnicos, lógicos e funcionais dos sistemas de controle, supervisão e proteção da subestação (2014-2015).</p>
 
 ### 📚 Projetos de Pesquisa e Artigos Publicados
