@@ -152,7 +152,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 - **Automação de Processos Repetitivos**: RPA;
 - **Banco de Dados Relacionais**: SQL, SQLite e MySQL;
 - **Banco de Dados Não Relacionais**: NoSQL, MongoDB e BigQuery;
-- **Extração, Limpeza e Visualização de Dados**: Matlab, Google Sheets e Data Studio.
+- **Extração, Limpeza e Visualização de Dados**: Matlab, Google Sheets e Data Studio;
 - **Idiomas**: Português Nativo e Inglês Fluente.
 
 ### 🎯 Informações Complementares
