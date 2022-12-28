@@ -14,7 +14,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 - Mestrado em Engenharia Elétrica com ênfase em Sistemas de Controle: Universidade Federal do Pará (UFPA). Belém, PA (2016-2018).</p>
 
 <p align = 'justify' >
-- Graduação em Engenharia de Controle e Automação: Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Belém, PA. (2010-2015).</p>
+- Graduação em Engenharia de Controle e Automação: Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Belém, PA (2010-2015).</p>
 
 ### 💼 Experiência Profissional
 
