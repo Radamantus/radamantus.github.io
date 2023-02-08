@@ -41,7 +41,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 [Ganho Programado Tradicional e Rede de Controladores com Supervisão Fuzzy](https://drive.google.com/file/d/1U-U8ncboZCmaCyN7nH7YjLqNzFwMx-uk/view?usp=sharing):
 <p align = 'justify' >- Neste trabalho são comparados o desempenho entre controladores por ganho programado tradicional e uma rede de controladores locais com supervisão fuzzy. As análises são realizadas em uma válvula não linear e uma planta Motor-Tacogerador. A supervisão fuzzy é inserida de forma a atenuar essas mudanças bruscas, ponderando os valores dos controladores estáticos para encontrar um novo conjunto de parâmetros a cada instante de tempo (2021).</p>
 
-[Projeto de Controlador LQG aplicado à um Sistema Eletrônico](https://ieeexplore.ieee.org/document/9082730):
+[Projeto de Controlador LQG aplicado à um Sistema Eletrônico](https://drive.google.com/file/d/1MrVWquHZg5W3nZPy3amdR6wiKDrPflEc/view?usp=sharing):
 <p align = 'justify' >- Este trabalho apresenta uma aplicação prática de um controlador LQG (Linear Quadrático Gaussiano) em um sistema eletrônico. O sistema é representada por um modelo discreto e linear de segunda ordem. A análise de robustez é feita tanto para a malha de controle quanto para o filtro de Kalman. Testes simulados e práticos do tipo: resposta ao degrau, perturbação de carga na entrada da planta, saída da planta contaminada com ruído guaussiano são realizados a fim de avaliar o desempenho e a robustez propiciados pelo controle LQG (2020).</p>
 
 [Projeto de Controladores PID Locais com Supervisão Fuzzy](https://drive.google.com/file/d/11Vs2NuUUii88-lio08f49rpZAviYyrcz/view?usp=sharing):
