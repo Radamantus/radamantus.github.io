@@ -106,7 +106,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 
 ### 🏆 Licenças e Certificações
 
-1. **Data Science: Testes Estatísitcos com Python**: Carga Horária: 6 Horas. Alura (2023).
+1. **Data Science: Testes Estatísticos com Python**: Carga Horária: 6 Horas. Alura (2023).
 2. **Estatística com Python: Testes de Hipóteses**: Carga Horária: 10 Horas. Alura (2023).
 3. **Estatística com Python: Probabilidade e Amostragem**: Carga Horária: 10 Horas. Alura (2023).
 4. **Estatística com Python: Frequências e Medidas**: Carga Horária: 10 Horas. Alura (2023).
