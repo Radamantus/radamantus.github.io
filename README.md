@@ -32,7 +32,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 
 ### 📚 Projetos de Pesquisa e Artigos Publicados
 
-[Contribuições ao Controle de Variância Mínima Generalizado: Controle Preditivo de Horizonte Irrestrito](https://ppgee.propesp.ufpa.br/ARQUIVOS/teses/2022/Tese%20de%20Doutorado%20(Vers%C3%A3o%20Completa%20UFPA%202022).pdf):
+[Contribuições ao Controle de Variância Mínima Generalizado: Controle Preditivo de Horizonte Irrestrito](https://drive.google.com/file/d/1MmLuUlsuPzc3KMfA0AOWwtbKFXvzYGJA/view?usp=sharing):
 <p align = 'justify' >- Neste trabalho é investigado o controlador preditivo de horizonte irrestrito, ou UHPC. É projetado no espaço de estado por meio do método GMVSS e baseado em modelo linear ARMAX. Sua lei de controle é implementada no formato polinomial RST de controlador para o controle de sistemas monovariáveis com o objetivo de permitir a análise de robustez e desempenho, consolidando o UHPC como membro dos controladores preditivos. Os resultados obtidos demonstram que o controlador preditivo UHPC é capaz de lidar com erros de modelagem e ruídos externos, contribuindo positivamente para as margens de estabilidade do sistema de controle (2022).</p>
 
 [Controle Preditivo de Horizonte Irrestrito aplicado à um Sistema SISO Não Linear](https://drive.google.com/file/d/1LhO6CRE-_nqY_J5qEg37fLrY1ZjNPbTv/view?usp=sharing):
