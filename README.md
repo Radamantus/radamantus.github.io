@@ -106,62 +106,63 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 
 ### 🏆 Licenças e Certificações
 
-1. **Regressão Linear: Técnicas Avançadas de Modelagem**: Carga Horária: 5 Horas. Alura (2024).
-2. **Regressão Linear: Testando Relações e Prevendo Resultados**: Carga Horária: 12 Horas. Alura (2023).
-3. **Estatística com Python: Correlação e Regressão**: Carga Horária: 10 Horas. Alura (2023).
-4. **Data Science: Testes Estatísticos com Python**: Carga Horária: 6 Horas. Alura (2023).
-5. **Estatística com Python: Testes de Hipóteses**: Carga Horária: 10 Horas. Alura (2023).
-6. **Estatística com Python: Probabilidade e Amostragem**: Carga Horária: 10 Horas. Alura (2023).
-7. **Estatística com Python: Frequências e Medidas**: Carga Horária: 10 Horas. Alura (2023).
-8. **ChatGPT: Otimizando a Qualidade dos Resultados**: Carga Horária: 8 Horas. Alura (2023).
-9. **Formação Machine Learning**: Carga Horária: 76 Horas. Alura (2023).
-10. **Machine Learning Parte 2: Otimização com Exploração Aleatória**: Carga Horária: 8 Horas. Alura (2023).
-11. **Machine Learning Parte 1: Otimização de Modelos através de Hiperparâmetros**: Carga Horária: 9 Horas. Alura (2023).
-12. **Classificação: Validação de Modelos e Métricas de Avaliação**: Carga Horária: 8 Horas. Alura (2023).
-13. **Machine Learning: Validação de Modelos**: Carga Horária: 8 Horas. Alura (2023).
-14. **Clustering Aplicado: Recomendando Músicas com K-Means**: Carga Horária: 10 Horas. Alura (2023).
-15. **Clustering: Extraindo Padrões de Dados**: Carga Horária: 9 Horas. Alura (2023).
-16. **Formação Data Analysis com Google Sheets**: Carga Horária: 35 Horas. Alura (2023).
-17. **Data Visualization: Técnicas de Visualização com Google Sheets**: Carga Horária: 8 Horas. Alura (2023).
-18. **Data Analysis: Estatística com Google Sheets**: Carga Horária: 8 Horas. Alura (2023).
-19. **Data Analysis: Previsões com Google Sheets**: Carga Horária: 8 Horas. Alura (2023).
-20. **Machine Learning: Lidando com Dados de Muitas Dimensões**: Carga Horária: 12 Horas. Alura (2022).
-21. **Machine Learning: Classificação por trás dos Panos**: Carga Horária: 10 Horas. Alura (2022).
-22. **Machine Learning: Classificação com Sklearn**: Carga Horária: 8 Horas. Alura (2022).
-23. **Data Analysis: Google Sheets**: Carga Horária: 6 Horas. Alura (2022).
-24. **Formação Google BigQuery e Data Studio**: Carga Horária: 126 Horas. Alura (2022).
-25. **Google BigQuery e Data Studio: Projeto Final**: Carga Horária: 20 Horas. Alura (2022).
-26. **Acesso ao BigQuery: Manipulação Programático Linguagens**: Carga Horária: 12 Horas. Alura (2022).
-27. **BigQuery: Manipulação de Dados**: Carga Horária: 14 Horas. Alura (2022).
-28. **Google Data Studio: Parâmetros e BigQuery**: Carga Horária: 14 Horas. Alura (2022).
-29. **Google Data Studio: Filtros e Funções**: Carga Horária: 14 Horas. Alura (2022).
-30. **Google Data Studio: Acessando o MySQL**: Carga Horária: 14 Horas. Alura (2022).
-31. **Google Data Studio: Introdução à Ferramenta**: Carga Horária: 10 Horas. Alura (2022).
-32. **BigQuery: Funções do BigQuery**: Carga Horária: 16 Horas. Alura (2022).
-33. **BigQuery: o Banco de Dados da Google para Big Data**: Carga Horária: 12 Horas. Alura (2022).
-34. **Python Fundamentos para Análise de Dados**: Carga Horária: 60 Horas. Data Science Academy (2022).
-35. **Big Data Fundamentos**: Carga Horária: 12 Horas. Data Science Acadademy (2022).
-36. **Inteligência Artificial Fundamentos**: Carga Horária: 8 Horas. Data Science Academy (2022).
-37. **Introdução à Ciência de Dados**: Carga Horária: 12 Horas. Data Science Academy (2021).
-38. **Computer Vision**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-39. **Natural Language Processing**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
-40. **Intro to Deep Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-41. **Intermediate Machine Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-42. **Intro to Machine Learning**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
-43. **Feature Engineering**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
-44. **Data Cleaning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-45. **Data Visualization**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-46. **Time Series**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
-47. **Pandas**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-48. **Python**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
-49. **Advanced SQL**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
-50. **Intro SQL**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
-51. **SQL Completo**: Carga Horária: 12 Horas. Udemy Academy (2021).
-52. **Power BI Completo**: Carga Horária: 9 Horas. Udemy Academy (2021).
-53. **Comandos e Acionamentos Elétricos**: Carga Horária: 9 Horas. Udemy Academy (2021).
-54. **Técnicas de Parametrização de Inversor de Frequência**: Carga Horária: 48 Horas. SENAI-PA (2016).
-55. **Auxiliar de Eletrônica**: Carga Horária: 160 Horas. SENAI-PA (2015).
-56. **Língua Inglesa**: Carga Horária: 720 Horas. Escola de Idiomas Aslan (2010).
+1. **Docker: Criando e Gerenciando Containers**: Carga Horária: 10 Horas. Alura (2024).
+2. **Regressão Linear: Técnicas Avançadas de Modelagem**: Carga Horária: 5 Horas. Alura (2024).
+3. **Regressão Linear: Testando Relações e Prevendo Resultados**: Carga Horária: 12 Horas. Alura (2023).
+4. **Estatística com Python: Correlação e Regressão**: Carga Horária: 10 Horas. Alura (2023).
+5. **Data Science: Testes Estatísticos com Python**: Carga Horária: 6 Horas. Alura (2023).
+6. **Estatística com Python: Testes de Hipóteses**: Carga Horária: 10 Horas. Alura (2023).
+7. **Estatística com Python: Probabilidade e Amostragem**: Carga Horária: 10 Horas. Alura (2023).
+8. **Estatística com Python: Frequências e Medidas**: Carga Horária: 10 Horas. Alura (2023).
+9. **ChatGPT: Otimizando a Qualidade dos Resultados**: Carga Horária: 8 Horas. Alura (2023).
+10. **Formação Machine Learning**: Carga Horária: 76 Horas. Alura (2023).
+11. **Machine Learning Parte 2: Otimização com Exploração Aleatória**: Carga Horária: 8 Horas. Alura (2023).
+12. **Machine Learning Parte 1: Otimização de Modelos através de Hiperparâmetros**: Carga Horária: 9 Horas. Alura (2023).
+13. **Classificação: Validação de Modelos e Métricas de Avaliação**: Carga Horária: 8 Horas. Alura (2023).
+14. **Machine Learning: Validação de Modelos**: Carga Horária: 8 Horas. Alura (2023).
+15. **Clustering Aplicado: Recomendando Músicas com K-Means**: Carga Horária: 10 Horas. Alura (2023).
+16. **Clustering: Extraindo Padrões de Dados**: Carga Horária: 9 Horas. Alura (2023).
+17. **Formação Data Analysis com Google Sheets**: Carga Horária: 35 Horas. Alura (2023).
+18. **Data Visualization: Técnicas de Visualização com Google Sheets**: Carga Horária: 8 Horas. Alura (2023).
+19. **Data Analysis: Estatística com Google Sheets**: Carga Horária: 8 Horas. Alura (2023).
+20. **Data Analysis: Previsões com Google Sheets**: Carga Horária: 8 Horas. Alura (2023).
+21. **Machine Learning: Lidando com Dados de Muitas Dimensões**: Carga Horária: 12 Horas. Alura (2022).
+22. **Machine Learning: Classificação por trás dos Panos**: Carga Horária: 10 Horas. Alura (2022).
+23. **Machine Learning: Classificação com Sklearn**: Carga Horária: 8 Horas. Alura (2022).
+24. **Data Analysis: Google Sheets**: Carga Horária: 6 Horas. Alura (2022).
+25. **Formação Google BigQuery e Data Studio**: Carga Horária: 126 Horas. Alura (2022).
+26. **Google BigQuery e Data Studio: Projeto Final**: Carga Horária: 20 Horas. Alura (2022).
+27. **Acesso ao BigQuery: Manipulação Programático Linguagens**: Carga Horária: 12 Horas. Alura (2022).
+28. **BigQuery: Manipulação de Dados**: Carga Horária: 14 Horas. Alura (2022).
+29. **Google Data Studio: Parâmetros e BigQuery**: Carga Horária: 14 Horas. Alura (2022).
+30. **Google Data Studio: Filtros e Funções**: Carga Horária: 14 Horas. Alura (2022).
+31. **Google Data Studio: Acessando o MySQL**: Carga Horária: 14 Horas. Alura (2022).
+32. **Google Data Studio: Introdução à Ferramenta**: Carga Horária: 10 Horas. Alura (2022).
+33. **BigQuery: Funções do BigQuery**: Carga Horária: 16 Horas. Alura (2022).
+34. **BigQuery: o Banco de Dados da Google para Big Data**: Carga Horária: 12 Horas. Alura (2022).
+35. **Python Fundamentos para Análise de Dados**: Carga Horária: 60 Horas. Data Science Academy (2022).
+36. **Big Data Fundamentos**: Carga Horária: 12 Horas. Data Science Acadademy (2022).
+37. **Inteligência Artificial Fundamentos**: Carga Horária: 8 Horas. Data Science Academy (2022).
+38. **Introdução à Ciência de Dados**: Carga Horária: 12 Horas. Data Science Academy (2021).
+39. **Computer Vision**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+40. **Natural Language Processing**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
+41. **Intro to Deep Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+42. **Intermediate Machine Learning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+43. **Intro to Machine Learning**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
+44. **Feature Engineering**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+45. **Data Cleaning**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+46. **Data Visualization**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+47. **Time Series**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+48. **Pandas**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+49. **Python**: Carga Horária: 5 Horas. Kaggle Plataform (2021).
+50. **Advanced SQL**: Carga Horária: 4 Horas. Kaggle Plataform (2021).
+51. **Intro SQL**: Carga Horária: 3 Horas. Kaggle Plataform (2021).
+52. **SQL Completo**: Carga Horária: 12 Horas. Udemy Academy (2021).
+53. **Power BI Completo**: Carga Horária: 9 Horas. Udemy Academy (2021).
+54. **Comandos e Acionamentos Elétricos**: Carga Horária: 9 Horas. Udemy Academy (2021).
+55. **Técnicas de Parametrização de Inversor de Frequência**: Carga Horária: 48 Horas. SENAI-PA (2016).
+56. **Auxiliar de Eletrônica**: Carga Horária: 160 Horas. SENAI-PA (2015).
+57. **Língua Inglesa**: Carga Horária: 720 Horas. Escola de Idiomas Aslan (2010).
 
 ### 🤖 Qualificações Adicionais
 
