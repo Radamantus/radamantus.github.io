@@ -106,7 +106,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 
 ### 🏆 Licenças e Certificações
 
-1. **Google BiQuery: Navegando na Nuvem**: Carga Horária: 14 Horas. Alura (2024).
+1. **Google BigQuery: Navegando na Nuvem**: Carga Horária: 14 Horas. Alura (2024).
 2. **Data Science: Análise e Visualização Dados**: Carga Horária: 6 Horas. Alura (2024).
 3. **Python Pandas: Tratando e Analisando Dados**: Carga Horária: 12 Horas. Alura (2024).
 4. **Análise de Experimentos: Testes, Mapas de Cores e Análise de Dados**: Carga Horária: 6 Horas. Alura (2024).
