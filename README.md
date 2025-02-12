@@ -106,7 +106,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 
 ### 🏆 Licenças e Certificações
 
-1. **Supervised Machine Learning: Regression and Classification**: Carga Horária: 33 Horas. Alura (2025).
+1. **Supervised Machine Learning: Regression and Classification**: Carga Horária: 33 Horas. Coursera (2025).
 2. **Classificação: Aprendendo a Classificar Dados com Machine Learning**: Carga Horária: 8 Horas. Alura (2025).
 3. **Apache Airflow: Orquestrando seu Primeiro Pipeline de Dados**: Carga Horária: 8 Horas. Alura (2024).
 4. **Google BigQuery: Dominando Funções Lógicas e Numéricas**: Carga Horária: 8 Horas. Alura (2024).
