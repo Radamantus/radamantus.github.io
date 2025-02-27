@@ -106,7 +106,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 
 ### 🏆 Licenças e Certificações
 
-1. **Unsupervised Learning, Recommenders, Reinforcement Learning**: Carga Horária: 33 Horas. Coursera (2025).
+1. **Unsupervised Learning, Recommenders, Reinforcement Learning**: Carga Horária: 27 Horas. Coursera (2025).
 2. **Advanced Learning Algorithms**: Carga Horária: 34 Horas. Coursera (2025).
 3. **Supervised Machine Learning: Regression and Classification**: Carga Horária: 33 Horas. Coursera (2025).
 4. **Classificação: Aprendendo a Classificar Dados com Machine Learning**: Carga Horária: 8 Horas. Alura (2025).
