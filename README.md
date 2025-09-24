@@ -187,6 +187,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 ### 🤖 Qualificações Adicionais
 
 - **Programação Python**: Matplotlib, Seaborn, Pandas, Numpy, Keras, Tensorflow, Scikit-Learn;
+- **Agentes de IA**: (CrewAI, LangGraph e CloudRun);
 - **Aprendizado de Máquina**: Machine Learning e Deep Learning;
 - **Agentes de IA:** CrewAI e LangGraph
 - **Inteligência Computacional**: Lógica e Controle Fuzzy;
