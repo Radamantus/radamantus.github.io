@@ -106,7 +106,7 @@ Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto
 
 ### 🏆 Licenças e Certificações
 
-1. **Claude Code with Vertex AI**: Carga Horária: 4 Horas. Anthropic Academy (2026).
+1. **Claude Code with Vertex AI**: Carga Horária: 6 Horas. Anthropic Academy (2026).
 2. **Claude Code in Action**: Carga Horária: 2 Horas. Anthropic Academy (2026).
 3. **Introduction to LangChain**: Carga Horária: 1 Hora. LangChain Academy (2026).
 4. **Quickstart LangGraph Essentials**: Carga Horária: 1 Hora. LangChain Academy (2025).
