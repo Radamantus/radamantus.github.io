@@ -1,1 +1,46 @@
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-include-cache
+
+title: Luís Augusto Mesquita de Castro
+name: Luís Augusto Mesquita de Castro
+description: Cientista de Dados | Pesquisador em IA | Doutor em Engenharia Elétrica
+url: https://radamantus.github.io
+locale: pt-BR
+
+# Skin options: "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: dark
+
+author:
+  name: Luís Augusto Mesquita de Castro
+  avatar: /dragon_ball.png
+  bio: "Cientista de Dados & Pesquisador em IA · Doutor em Engenharia Elétrica (UFPA) · Instituto Eldorado"
+  location: "Belém, PA — Brasil"
+  links:
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/Radamantus
+    - label: LinkedIn
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/luismesquitacastro
+    - label: Lattes
+      icon: fas fa-fw fa-graduation-cap
+      url: http://lattes.cnpq.br/2756070135275617
+
+footer:
+  links:
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/Radamantus
+    - label: LinkedIn
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/luismesquitacastro
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: true
