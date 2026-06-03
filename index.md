@@ -1,10 +1,7 @@
 ---
-layout: single
-author_profile: true
-title: ""
 ---
 
-<img src="https://raw.githubusercontent.com/Radamantus/radamantus.github.io/main/dragon_ball.png" width="300px" align="right" alt="Luís Augusto Mesquita de Castro" style="border-radius: 8px; margin-left: 1.5em; margin-bottom: 1em;">
+<img src="https://raw.githubusercontent.com/Radamantus/radamantus.github.io/main/dragon_ball.png" width="260px" align="right" alt="Luís Augusto Mesquita de Castro" class="profile-img">
 
 Possuo graduação (2015) em Engenharia de Controle e Automação pelo Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA). Possuo Mestrado (2018) e Doutorado (2022) em Engenharia Elétrica pela Universidade Federal do Pará (UFPA). Desde 2022 sou colaborador no Instituto de Pesquisas Eldorado (IPE). Estou constantemente desenvolvendo minhas habilidades e qualificando-me mais e mais na área de Ciência de Dados (Data Science), Aprendizado de Máquina (Machine Learning) e Agentes de IA (AI Agents) voltada para solução de problemas complexos de negócio. Possuo artigos científicos publicados em periódicos internacionais e congressos nacionais. Possuo mais de 8 anos de experiência em pesquisa acadêmica nas áreas: Análise e Classificação de Dados; Sistemas Inteligentes; Redes Neurais Artificiais; Lógica e Controle Fuzzy; Identificação de Sistemas Dinâmicos; Algoritmos Evolucionários; Controle Digital e Adaptativo; Controle Preditivo e Estocástico; Inteligência Computacional.
 

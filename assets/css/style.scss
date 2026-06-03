@@ -1,0 +1,210 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+// ── Variables ──────────────────────────────────────────────────────────────
+$accent:        #1a7f64;
+$accent-light:  #21a082;
+$accent-dim:    #e6f4f1;
+$text:          #1a1a2e;
+$text-muted:    #555;
+$border:        #dde4e0;
+$card-bg:       #f8fafa;
+$tag-bg:        #e0f2ed;
+$tag-color:     #0d6651;
+
+// ── Base typography ────────────────────────────────────────────────────────
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: $text;
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+// ── Header / hero ──────────────────────────────────────────────────────────
+.page-header {
+  background: linear-gradient(135deg, #0d4f3c 0%, #1a7f64 50%, #21a082 100%);
+  padding: 3rem 2rem;
+
+  .project-name {
+    font-weight: 700;
+    font-size: 2.2rem;
+    letter-spacing: -0.5px;
+  }
+
+  .project-tagline {
+    font-weight: 300;
+    font-size: 1rem;
+    opacity: 0.85;
+  }
+}
+
+// ── Main content area ──────────────────────────────────────────────────────
+.main-content {
+  max-width: 900px;
+  padding: 2.5rem 3rem;
+  font-size: 0.97rem;
+
+  // Profile photo
+  .profile-img {
+    border-radius: 10px;
+    margin-left: 2rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.15);
+  }
+
+  // Section headers
+  h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: $accent;
+    border-left: 4px solid $accent;
+    padding-left: 0.75rem;
+    margin-top: 2.8rem;
+    margin-bottom: 1.2rem;
+    letter-spacing: 0.01em;
+  }
+
+  h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 1.4rem;
+    margin-bottom: 0.3rem;
+  }
+
+  // Horizontal rule as section divider
+  hr {
+    border: none;
+    border-top: 1px solid $border;
+    margin: 2.2rem 0;
+  }
+
+  // Links
+  a {
+    color: $accent;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s, color 0.2s;
+
+    &:hover {
+      color: darken($accent, 10%);
+      border-bottom-color: $accent;
+    }
+  }
+
+  // ── Experience cards ──────────────────────────────────────────────────
+  p strong a,
+  strong a {
+    font-size: 1rem;
+  }
+
+  // Wrap experience blocks in visual cards via paragraph detection
+  // (uses CSS to style the bold-institution + italic-period pattern)
+  p:has(strong a),
+  p:has(strong em) {
+    background: $card-bg;
+    border: 1px solid $border;
+    border-left: 4px solid $accent-light;
+    border-radius: 6px;
+    padding: 0.9rem 1.1rem;
+    margin-bottom: 0.6rem;
+  }
+
+  // ── Article list items ────────────────────────────────────────────────
+  ul li {
+    margin-bottom: 0.5rem;
+  }
+
+  // Research articles as subtle cards
+  ul li:has(a) {
+    background: $card-bg;
+    border: 1px solid $border;
+    border-radius: 6px;
+    padding: 0.6rem 0.9rem;
+    list-style: none;
+    margin-left: -0.9rem;
+    transition: box-shadow 0.2s, transform 0.15s;
+
+    &:hover {
+      box-shadow: 0 3px 12px rgba(0,0,0,0.09);
+      transform: translateY(-1px);
+    }
+
+    a {
+      font-weight: 600;
+    }
+  }
+
+  // ── Certifications table ───────────────────────────────────────────────
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+    margin: 1rem 0;
+
+    thead tr {
+      background: $accent;
+      color: #fff;
+
+      th {
+        padding: 0.6rem 0.8rem;
+        text-align: left;
+        font-weight: 600;
+      }
+    }
+
+    tbody {
+      tr {
+        border-bottom: 1px solid $border;
+        transition: background 0.15s;
+
+        &:nth-child(even) { background: $accent-dim; }
+        &:hover           { background: darken($accent-dim, 4%); }
+
+        td {
+          padding: 0.45rem 0.8rem;
+          color: $text-muted;
+        }
+
+        td:first-child {
+          color: $text-muted;
+          font-size: 0.8rem;
+          width: 2.5rem;
+        }
+
+        td:nth-child(2) { color: $text; font-weight: 500; }
+
+        td:last-child {
+          font-weight: 600;
+          color: $accent;
+          white-space: nowrap;
+        }
+      }
+    }
+  }
+
+  // ── Skills tags ────────────────────────────────────────────────────────
+  ul:last-of-type li {
+    list-style: none;
+    background: none;
+    border: none;
+    padding: 0;
+    margin-left: 0;
+    box-shadow: none;
+    transform: none;
+
+    strong {
+      color: $accent;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem;
+    }
+  }
+}
+
+// ── Footer ─────────────────────────────────────────────────────────────────
+.site-footer {
+  border-top: 1px solid $border;
+  font-size: 0.8rem;
+  color: $text-muted;
+}
